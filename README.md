@@ -1,2 +1,1 @@
- # Fertilizer_prediction
- using KNN algorithm
+ # Fertilizer_prediction_project(Sip2k19)
